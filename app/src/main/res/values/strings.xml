@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ReceipeDetail_Constraint</string>
     <string name="action_settings">Settings</string>
+    <string name="material">Material &amp; Doing</string>
+    <string name="video_detailss">I was inspired to make this recipe after I couldnot stop thinking of a similar dish served in my elementary school cafeteria more than 50 years ago! I like that it is quick to make, and my husband, my grandchildren and everyone else love it. —Ronna Farley, Rockville, Maryland</string>
+    <string name="material_details">Cube steaks are inexpensive, and they are a great way to make midweek steak dinners doable. A cube steak needs little more than salt and pepper and a quick spin on the grill before its ready to be served alongside grilled corn and vinaigrette-coated veggies.</string>
+    <string name="info_details">Looking for food to make for dinner tonight? These recipes are comfort food at its best. From homemade chicken potpie to Mom meatloaf, make these comforting dinner foods when you need a home-cooked meal.</string>
 </resources>
